@@ -1,5 +1,6 @@
 ### Hello, I'm Andi
 **🌍 check out my projects on  [my website](https://andithemudkip.now.sh)**
+
 **🎮 also my game "studio"  [SphynxGames](https://sphynxgames.com)**
 
 <!--
