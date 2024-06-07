@@ -1,5 +1,5 @@
 ### Hello, I'm Andi
-**🌍 check out my projects on  [my website](https://andithemudkip.vercel.app)**
+**🌍 check out my projects on  [my website](https://andithemudkip.com)**
 
 **🎮 i make games! check out my studio [Spawn](https://spawn.games)**
 
